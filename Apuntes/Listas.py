@@ -18,3 +18,6 @@ while(vidas != 0):
     else:
         puntos +=1
         print(f"puntos: {puntos}")
+
+
+labels = ["sebas", "juan", "camilo", "pablo"]
